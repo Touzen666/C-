@@ -1,0 +1,14 @@
+C:\Users\Bartek\Desktop\projekty\Programowanie\Graf_Finder\Graf_Finder\bin\Debug\Graf_Finder.exe.config
+C:\Users\Bartek\Desktop\projekty\Programowanie\Graf_Finder\Graf_Finder\bin\Debug\Graf_Finder.exe
+C:\Users\Bartek\Desktop\projekty\Programowanie\Graf_Finder\Graf_Finder\bin\Debug\Graf_Finder.pdb
+C:\Users\Bartek\Desktop\projekty\Programowanie\Graf_Finder\Graf_Finder\obj\Debug\Graf_Finder.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\projekty\Programowanie\Graf_Finder\Graf_Finder\obj\Debug\Graf_Finder.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\projekty\Programowanie\Graf_Finder\Graf_Finder\obj\Debug\Graf_Finder.exe
+C:\Users\Bartek\Desktop\projekty\Programowanie\Graf_Finder\Graf_Finder\obj\Debug\Graf_Finder.pdb
+C:\Users\Bartosz\Desktop\Projekty\Programowanie\Graf_Finder\Graf_Finder\obj\Debug\Graf_Finder.csprojAssemblyReference.cache
+C:\Users\Bartosz\Desktop\Projekty\Programowanie\Graf_Finder\Graf_Finder\obj\Debug\Graf_Finder.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Desktop\Projekty\Programowanie\Graf_Finder\Graf_Finder\obj\Debug\Graf_Finder.exe
+C:\Users\Bartosz\Desktop\Projekty\Programowanie\Graf_Finder\Graf_Finder\obj\Debug\Graf_Finder.pdb
+C:\Users\Bartosz\Desktop\Projekty\Programowanie\Graf_Finder\Graf_Finder\bin\Debug\Graf_Finder.exe.config
+C:\Users\Bartosz\Desktop\Projekty\Programowanie\Graf_Finder\Graf_Finder\bin\Debug\Graf_Finder.exe
+C:\Users\Bartosz\Desktop\Projekty\Programowanie\Graf_Finder\Graf_Finder\bin\Debug\Graf_Finder.pdb
